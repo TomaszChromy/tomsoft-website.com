@@ -70,8 +70,8 @@ public/
 
 ```bash
 # Klonowanie repozytorium
-git clone https://github.com/AugmentCode-Digital/tomsoft-website.git
-cd tomsoft-website
+git clone https://github.com/TomaszChromy/tomsoft-website.com.git
+cd tomsoft-website.com
 
 # Instalacja zależności
 npm install
@@ -136,7 +136,9 @@ docker run -p 3000:3000 tomsoft-website
 
 ## 📄 Licencja
 
-Wszelkie prawa zastrzeżone © 2024 TomSoft Website
+Ten projekt jest licencjonowany na warunkach [MIT License](LICENSE).
+
+Copyright © 2024 TomSoft Website - Tomasz Chromy
 
 ---
 
