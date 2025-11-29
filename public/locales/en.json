@@ -1,0 +1,727 @@
+{
+  "common": {
+    "contactUs": "Contact Us",
+    "seeOffer": "See Offer",
+    "seePortfolio": "See Portfolio",
+    "askForQuote": "Get a Quote",
+    "startProject": "Start Project",
+    "sendMessage": "Send Message",
+    "writeEmail": "Write Email",
+    "learnMore": "Learn More"
+  },
+  "nav": {
+    "offer": "Services",
+    "pricing": "Pricing",
+    "portfolio": "Portfolio",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "building": "We build",
+    "forYourBusiness": "that work for your business",
+    "description": "I design and implement modern websites in React + Next.js — fast, lightweight, and SEO-optimized. Simple deployment, modern design, React and Next.js technology.",
+    "typingWords": [
+      "modern websites",
+      "e-commerce stores",
+      "web applications",
+      "landing pages",
+      "CMS systems"
+    ]
+  },
+  "why": {
+    "title": "Why",
+    "titleHighlight": "TomSoft Website",
+    "description": "Choose a partner who combines experience with modern technologies and provides comprehensive support at every stage of the project.",
+    "readyToStart": "Ready to start working together?",
+    "talkAboutProject": "Let's talk about your project",
+    "tiles": {
+      "fastDelivery": {
+        "title": "Fast Delivery",
+        "description": "We complete projects in a maximum of 3 weeks, ensuring high quality and timeliness."
+      },
+      "modernTech": {
+        "title": "Modern Technology",
+        "description": "We use the latest technologies: Next.js, React, TypeScript, and TailwindCSS."
+      },
+      "security": {
+        "title": "Security",
+        "description": "We follow GDPR and OWASP standards, ensuring complete data security."
+      },
+      "communication": {
+        "title": "Constant Communication",
+        "description": "Transparent process, regular updates, and full availability during implementation."
+      }
+    }
+  },
+  "offer": {
+    "title": "Our",
+    "titleHighlight": "Services",
+    "description": "We offer comprehensive web solutions — from simple business card websites to advanced eCommerce systems and SaaS applications. We execute every project with attention to the highest quality and modern standards.",
+    "notSeeProject": "Don't see your project?",
+    "uniqueProject": "Every project is unique. Contact us to discuss your needs and receive a personalized offer.",
+    "talkAboutProject": "Let's talk about your project",
+    "cards": {
+      "corporate": {
+        "title": "Corporate Websites",
+        "description": "Fast and SEO-friendly websites on React + Next.js. Lighthouse 95+ and excellent UX.",
+        "features": [
+          "Mobile-first responsive design",
+          "SEO and Core Web Vitals optimization",
+          "Google Analytics integration",
+          "Contact form with validation",
+          "Admin panel (CMS)",
+          "Hosting and domain included"
+        ]
+      },
+      "ecommerce": {
+        "title": "Online Stores",
+        "description": "Headless eCommerce (Strapi/Sanity/Shopify). UX for conversion, payments, integrations.",
+        "features": [
+          "Headless architecture (API-first)",
+          "Payment system integration",
+          "Product and order management",
+          "Optimized cart and checkout",
+          "Courier integrations",
+          "Sales analytics and reporting"
+        ]
+      },
+      "custom": {
+        "title": "Custom Systems",
+        "description": "SaaS/CRM/ERP tailored to your company. API integrations and automations.",
+        "features": [
+          "Microservices architecture",
+          "REST and GraphQL API",
+          "Business process automation",
+          "External system integrations",
+          "Analytics dashboard",
+          "Scalable cloud infrastructure"
+        ]
+      },
+      "design": {
+        "title": "UI/UX Design",
+        "description": "Mockups, prototypes, design systems. Consistent style and accessibility.",
+        "features": [
+          "User research and UX analysis",
+          "Interactive wireframes and prototypes",
+          "Design system and style guide",
+          "A/B usability testing",
+          "WCAG 2.1 AA accessibility",
+          "Developer handoff"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Don't see your project?",
+      "description": "Every project is unique. Contact us to discuss your needs and receive a personalized offer.",
+      "talkButton": "Let's talk about your project",
+      "portfolioButton": "See portfolio"
+    }
+  },
+  "pricing": {
+    "title": "Transparent",
+    "titleHighlight": "Pricing",
+    "description": "Competitive web development pricing for European market. We quote each project individually — contact us for a free estimate.",
+    "marketNote": "Standard EU market rates 2024/2025",
+    "mostPopular": "Most Popular",
+    "period": "project",
+    "askForQuote": "Get a Quote",
+    "note": {
+      "title": "Individual Quote",
+      "description": "Every project is unique. The final price depends on the scope of work, functionality, and deadlines. Contact us to receive a free quote tailored to your needs."
+    },
+    "currency": "€",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "subtitle": "Business Card Website",
+        "price": "1,200",
+        "priceMax": "2,500",
+        "description": "Ideal for small businesses and freelancers starting their online presence.",
+        "features": [
+          "Up to 5 pages",
+          "Responsive design",
+          "Contact form",
+          "Basic SEO",
+          "1 year hosting",
+          "30 days support"
+        ]
+      },
+      "business": {
+        "name": "Business",
+        "subtitle": "Corporate Website",
+        "price": "2,500",
+        "priceMax": "6,500",
+        "description": "Complete solution for companies requiring a professional online presence.",
+        "features": [
+          "Up to 15 pages",
+          "CMS (admin panel)",
+          "Blog / News",
+          "Advanced SEO",
+          "Google Analytics",
+          "API integrations",
+          "1 year hosting",
+          "90 days support"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "subtitle": "eCommerce / SaaS",
+        "price": "6,500",
+        "priceMax": "25,000+",
+        "description": "Advanced e-commerce systems and custom web applications.",
+        "features": [
+          "Unlimited pages",
+          "Online store",
+          "Payment system",
+          "Customer panel",
+          "ERP/CRM integrations",
+          "Custom features",
+          "Premium hosting",
+          "12 months support"
+        ]
+      }
+    }
+  },
+  "process": {
+    "title": "How",
+    "titleHighlight": "we work",
+    "description": "Our process is transparent and predictable. Each stage is carefully planned so you always know where your project stands.",
+    "cta": {
+      "title": "Ready to start?",
+      "description": "Let's start working together today. First contact and consultation are free.",
+      "button": "Contact us"
+    },
+    "steps": {
+      "contact": {
+        "title": "Inquiry",
+        "description": "Contact us via form or phone. We'll discuss your needs and business goals.",
+        "duration": "1 day",
+        "imageAlt": "Meeting with client"
+      },
+      "brief": {
+        "title": "Brief",
+        "description": "We prepare a detailed project brief, define the scope of work and implementation schedule.",
+        "duration": "2-3 days",
+        "imageAlt": "Project brief preparation"
+      },
+      "mockup": {
+        "title": "Mockup",
+        "description": "We design UX/UI mockups for your approval. We implement revisions.",
+        "duration": "5-7 days",
+        "imageAlt": "UX/UI mockup design"
+      },
+      "implementation": {
+        "title": "Implementation",
+        "description": "We code the website according to the mockup, test functionality and optimize performance.",
+        "duration": "7-14 days",
+        "imageAlt": "Website coding"
+      },
+      "support": {
+        "title": "Support",
+        "description": "We launch the website, provide training and technical support for 3 months.",
+        "duration": "Ongoing",
+        "imageAlt": "Technical support"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Our",
+    "titleHighlight": "Portfolio",
+    "description": "Discover projects we create for our clients. Each one is a unique solution tailored to specific business needs.",
+    "stats": {
+      "projects": "Completed projects",
+      "lighthouse": "Average Lighthouse score",
+      "satisfaction": "Satisfied clients",
+      "response": "Response time"
+    },
+    "cta": {
+      "title": "Want to see more?",
+      "description": "This is just a part of our portfolio. Contact us to see the full portfolio and discuss your project.",
+      "discussButton": "Let's discuss your project",
+      "githubButton": "See code on GitHub"
+    },
+    "items": {
+      "probiz": {
+        "title": "ProBiz Site",
+        "description": "Modern corporate website for a marketing agency. Responsive design, animations and SEO optimization.",
+        "category": "Corporate website"
+      },
+      "shoply": {
+        "title": "Shoply",
+        "description": "Headless online store with Stripe integration. Advanced cart, payments and admin panel.",
+        "category": "Headless store"
+      },
+      "crmflow": {
+        "title": "CRMflow",
+        "description": "CRM SaaS system for small businesses. Analytics dashboard, customer management and automations.",
+        "category": "CRM SaaS"
+      },
+      "designhub": {
+        "title": "DesignHub",
+        "description": "Portfolio for a design studio. Work gallery, animations and content management system.",
+        "category": "Portfolio"
+      },
+      "eduplatform": {
+        "title": "EduPlatform",
+        "description": "E-learning platform with online courses. Payment system, learning progress and certificates.",
+        "category": "E-learning"
+      },
+      "restaurantos": {
+        "title": "RestaurantOS",
+        "description": "Restaurant management system. Reservations, online menu, orders and POS integration.",
+        "category": "Custom system"
+      }
+    }
+  },
+  "stats": {
+    "title": "Numbers speak",
+    "titleHighlight": "for themselves",
+    "description": "We build client trust through quality and timely delivery",
+    "items": {
+      "projects": {
+        "label": "Completed projects",
+        "description": "websites, stores and apps"
+      },
+      "satisfaction": {
+        "label": "Satisfied clients",
+        "description": "positive reviews"
+      },
+      "experience": {
+        "label": "Years of experience",
+        "description": "in the IT industry"
+      },
+      "response": {
+        "label": "Response time",
+        "description": "to your inquiry"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What our",
+    "titleHighlight": "clients say",
+    "description": "Our clients' opinions are most important to us. Discover success stories of companies that trusted us.",
+    "cta": {
+      "subtitle": "Join our satisfied clients",
+      "button": "Start cooperation"
+    },
+    "items": {
+      "anna": {
+        "name": "Anna Kowalska",
+        "company": "eCommerce24",
+        "role": "CEO",
+        "content": "TomSoft increased sales by 40% in 3 months. Professional approach, timeliness and excellent communication. I recommend to anyone looking for quality.",
+        "metric": "+40% sales"
+      },
+      "marek": {
+        "name": "Marek Nowak",
+        "company": "Startup360",
+        "role": "Founder",
+        "content": "Great contact, fast delivery and full professionalism. The website was completed in 7 days as agreed. Highly recommend working together.",
+        "metric": "Website in 7 days"
+      },
+      "katarzyna": {
+        "name": "Katarzyna Wiśniewska",
+        "company": "DesignStudio",
+        "role": "Creative Director",
+        "content": "Fantastic collaboration on our portfolio redesign. TomSoft perfectly understood our needs and created a website that exceeds expectations.",
+        "metric": "95+ Lighthouse"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "description": "Find answers to the most frequently asked questions about our services",
+    "cta": {
+      "subtitle": "Didn't find the answer to your question?",
+      "button": "Contact us"
+    },
+    "items": {
+      "cost": {
+        "question": "How much does a website cost?",
+        "answer": "The price of a website depends on its complexity. Simple business card websites start from €1,200, corporate websites with CMS from €2,500, and advanced online stores from €6,500. We quote each project individually after understanding your needs."
+      },
+      "timeline": {
+        "question": "How long does project implementation take?",
+        "answer": "Implementation time depends on project complexity. A simple business card website takes 1-2 weeks, a corporate website with CMS takes 2-3 weeks, and an online store can take 4-8 weeks. We always set a specific schedule at the beginning of cooperation."
+      },
+      "support": {
+        "question": "Do you offer post-implementation support?",
+        "answer": "Yes! After implementation, we offer free technical support for 30 days. Then you can use our service packages including updates, backup, monitoring and quick help in case of problems."
+      },
+      "technologies": {
+        "question": "What technologies do you use?",
+        "answer": "We specialize in modern technologies: React, Next.js, TypeScript, Tailwind CSS, Node.js. For stores, we use headless eCommerce (Shopify, WooCommerce). All websites are fast, secure and SEO-optimized."
+      },
+      "cms": {
+        "question": "Can I manage the content on the website myself?",
+        "answer": "Of course! All our websites are equipped with an intuitive admin panel (CMS) that allows you to easily edit texts, images and add new pages. We also provide training on how to use it."
+      },
+      "responsive": {
+        "question": "Will the website be responsive on mobile devices?",
+        "answer": "Yes, all our websites are fully responsive and work great on smartphones, tablets and computers. We design using the mobile-first method, which ensures the best experience on every device."
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's talk about",
+    "titleHighlight": "your project",
+    "description": "We respond within 24h. Contact us to discuss details and receive a free quote for your project.",
+    "contactUs": "Contact Us",
+    "contactUsDescription": "We're here to help you realize your digital dreams. Whether you need a simple business card website or an advanced eCommerce system - we're ready for the challenge.",
+    "info": {
+      "email": {
+        "label": "Email",
+        "description": "Write to us about anything"
+      },
+      "location": {
+        "label": "Location",
+        "value": "EU / Remote",
+        "description": "We work remotely with all of Europe"
+      },
+      "response": {
+        "label": "Response Time",
+        "value": "24 hours",
+        "description": "We respond to all messages"
+      }
+    },
+    "quickResponse": {
+      "title": "Need a quick answer?",
+      "description": "Call or write - we respond immediately",
+      "button": "Write email now"
+    },
+    "form": {
+      "title": "Send a message",
+      "description": "Fill out the form and we'll contact you within 24 hours."
+    },
+    "whyUs": {
+      "title": "Why work with us?",
+      "consultation": {
+        "title": "Free Consultation",
+        "description": "First contact and quote are free"
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Clear rules, no hidden costs"
+      },
+      "support": {
+        "title": "Support",
+        "description": "3 months of free technical support"
+      }
+    }
+  },
+  "form": {
+    "fields": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "John Smith",
+      "email": "john@example.com",
+      "message": "Describe your project or ask a question..."
+    },
+    "consent": {
+      "text": "I consent to the processing of my personal data by TomSoft Website for the purpose of return contact, in accordance with the",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "mailtoInfo": "After clicking the button, your default email client will open with a prepared message.",
+    "submit": "Send message",
+    "errors": {
+      "nameMin": "Name must be at least 2 characters",
+      "emailInvalid": "Please enter a valid email address",
+      "messageMin": "Message must be at least 10 characters",
+      "consentRequired": "You must consent to the processing of personal data"
+    }
+  },
+  "footer": {
+    "brandDescription": "We build fast, modern and SEO-friendly websites and systems that work for your business.",
+    "sections": {
+      "offer": "Services",
+      "navigation": "Navigation",
+      "contact": "Contact"
+    },
+    "legal": {
+      "privacyPolicy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookies"
+    },
+    "poweredBy": "POWERED BY",
+    "disclaimerEn": "This website was created for training purposes only and does not constitute a commercial offer.",
+    "disclaimerPl": "Strona została stworzona w celach szkoleniowych i nie stanowi oferty handlowej."
+  },
+  "languageSwitcher": {
+    "pl": "Polski",
+    "en": "English"
+  },
+  "legal": {
+    "backToHome": "Back to home page",
+    "lastUpdated": "Last updated",
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "metaDescription": "TomSoft Website Privacy Policy. Learn how we process and protect your personal data in accordance with GDPR.",
+      "section1": {
+        "title": "1. General Information",
+        "p1": "This Privacy Policy sets out the rules for the processing and protection of personal data provided by users in connection with the use of services provided by TomSoft Website.",
+        "p2": "The data controller is TomSoft Website, contact: contact@tomsoft-website.com"
+      },
+      "section2": {
+        "title": "2. Types of Data Processed",
+        "intro": "As part of the services provided, we may process the following categories of personal data:",
+        "items": [
+          "Identification data (first name, last name)",
+          "Contact data (email address, phone number)",
+          "Technical data (IP address, browser type, operating system)",
+          "Website usage data (visit time, pages visited)"
+        ]
+      },
+      "section3": {
+        "title": "3. Purposes and Legal Bases for Processing",
+        "contact": {
+          "title": "Contact and Communication",
+          "purpose": "Purpose:",
+          "purposeText": "Responding to inquiries, providing services",
+          "legal": "Legal basis:",
+          "legalText": "Consent (Art. 6(1)(a) GDPR) or legitimate interest (Art. 6(1)(f) GDPR)"
+        },
+        "analytics": {
+          "title": "Analytics and Statistics",
+          "purpose": "Purpose:",
+          "purposeText": "Website traffic analysis, service optimization",
+          "legal": "Legal basis:",
+          "legalText": "Legitimate interest (Art. 6(1)(f) GDPR)"
+        }
+      },
+      "section4": {
+        "title": "4. Cookies and Tracking Technologies",
+        "intro": "Our website uses cookies and similar technologies for the following purposes:",
+        "items": [
+          "Essential: Ensuring basic website functionality",
+          "Analytical: Traffic analysis using Plausible Analytics (privacy-friendly)",
+          "Functional: Remembering user preferences"
+        ],
+        "outro": "You can manage cookie settings using the cookie banner or browser settings."
+      },
+      "section5": {
+        "title": "5. Data Sharing",
+        "intro": "Your personal data may be shared with the following categories of recipients:",
+        "items": [
+          "Technical service providers (hosting, analytics)",
+          "Communication service providers (Formspree)",
+          "Public authorities (in cases provided by law)"
+        ],
+        "outro": "All entities processing data on our behalf are bound by agreements ensuring an appropriate level of data protection."
+      },
+      "section6": {
+        "title": "6. Data Retention Period",
+        "intro": "We retain personal data for the period necessary to achieve the purposes for which it was collected:",
+        "items": [
+          "Contact data: until consent is withdrawn or for 3 years from the last contact",
+          "Analytical data: maximum 24 months",
+          "Server logs: maximum 12 months"
+        ]
+      },
+      "section7": {
+        "title": "7. Your Rights",
+        "intro": "Under GDPR, you have the following rights:",
+        "items": [
+          "Right of access to data",
+          "Right to rectification",
+          "Right to erasure",
+          "Right to restriction of processing",
+          "Right to data portability",
+          "Right to object to processing",
+          "Right to withdraw consent"
+        ],
+        "outro": "To exercise your rights, contact us at: contact@tomsoft-website.com"
+      },
+      "section8": {
+        "title": "8. Data Security",
+        "intro": "We apply appropriate technical and organizational measures to protect personal data:",
+        "items": [
+          "Connection encryption (SSL/TLS)",
+          "Regular security updates",
+          "Restricted data access",
+          "Security monitoring"
+        ]
+      },
+      "section9": {
+        "title": "9. Changes to Privacy Policy",
+        "text": "We reserve the right to make changes to this Privacy Policy. We will inform you of any significant changes on our website."
+      },
+      "section10": {
+        "title": "10. Contact",
+        "intro": "For matters related to personal data protection, you can contact us:",
+        "email": "Email:",
+        "phone": "Phone:",
+        "outro": "You also have the right to lodge a complaint with a supervisory authority - the President of the Personal Data Protection Office."
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "metaDescription": "TomSoft Website Terms of Service. Cooperation rules and service conditions.",
+      "section1": {
+        "title": "1. General Provisions",
+        "p1": "These Terms of Service define the rules for using services provided by TomSoft Website.",
+        "p2": "The Service Provider is TomSoft Website, contact: contact@tomsoft-website.com"
+      },
+      "section2": {
+        "title": "2. Definitions",
+        "items": [
+          "Service Provider - TomSoft Website",
+          "Client - natural or legal person using the services",
+          "Services - designing and creating websites, web applications, and systems",
+          "Website - tomsoft-website.com"
+        ]
+      },
+      "section3": {
+        "title": "3. Scope of Services",
+        "intro": "TomSoft Website offers the following services:",
+        "items": [
+          "Design and development of corporate websites",
+          "Design and development of e-commerce stores",
+          "Custom web application development",
+          "UI/UX design",
+          "Technical support and maintenance"
+        ]
+      },
+      "section4": {
+        "title": "4. Implementation Process",
+        "intro": "Project implementation follows these stages:",
+        "items": [
+          "Initial consultation and requirements analysis",
+          "Brief preparation and quotation",
+          "UI/UX design",
+          "Implementation and development",
+          "Testing and revisions",
+          "Deployment and training"
+        ]
+      },
+      "section5": {
+        "title": "5. Payments",
+        "items": [
+          "Service prices are determined individually based on the project scope",
+          "A deposit of 30-50% of the project value is typically required",
+          "The remaining amount is due upon project completion",
+          "Accepted payment methods: bank transfer, PayPal"
+        ]
+      },
+      "section6": {
+        "title": "6. Copyright",
+        "items": [
+          "Upon full payment, property rights to the project are transferred to the Client",
+          "The Service Provider reserves the right to use the project in their portfolio",
+          "Open-source libraries used are subject to their original licenses"
+        ]
+      },
+      "section7": {
+        "title": "7. Warranty and Support",
+        "items": [
+          "We offer a 30-day warranty for bug fixes after deployment",
+          "Technical support is available on business days 9:00 AM - 5:00 PM",
+          "Additional support is available under a separate agreement"
+        ]
+      },
+      "section8": {
+        "title": "8. Liability",
+        "items": [
+          "The Service Provider is not responsible for content added by the Client",
+          "The Service Provider is not liable for interruptions due to force majeure",
+          "Maximum liability is limited to the order value"
+        ]
+      },
+      "section9": {
+        "title": "9. Complaints",
+        "p1": "Complaints should be submitted via email to: contact@tomsoft-website.com",
+        "p2": "Complaints are processed within 14 business days."
+      },
+      "section10": {
+        "title": "10. Final Provisions",
+        "items": [
+          "These Terms of Service come into effect upon publication",
+          "The Service Provider reserves the right to modify the Terms",
+          "Polish law applies to matters not regulated herein"
+        ]
+      }
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "metaDescription": "TomSoft Website Cookie Policy. Information about cookies used and how to manage them.",
+      "section1": {
+        "title": "1. What are cookies?",
+        "text": "Cookies are small text files stored on your device when visiting websites. They are used to remember preferences, facilitate website use, and collect analytical data."
+      },
+      "section2": {
+        "title": "2. Types of Cookies Used",
+        "essential": {
+          "title": "Essential",
+          "description": "Required for proper website functionality. Cannot be disabled.",
+          "items": [
+            "Language preferences",
+            "User session",
+            "CSRF protection"
+          ]
+        },
+        "analytics": {
+          "title": "Analytical",
+          "description": "Help understand how users interact with the website.",
+          "items": [
+            "Plausible Analytics (privacy-friendly, no cookies)",
+            "Anonymous visit statistics"
+          ]
+        },
+        "functional": {
+          "title": "Functional",
+          "description": "Remember your preferences and settings.",
+          "items": [
+            "Light/dark mode",
+            "Display preferences"
+          ]
+        }
+      },
+      "section3": {
+        "title": "3. Managing Cookies",
+        "intro": "You can manage cookies through:",
+        "items": [
+          "Browser settings - most browsers allow blocking or deleting cookies",
+          "Cookie banner - on first visit, you can choose accepted categories",
+          "Website settings - some preferences can be changed in settings"
+        ]
+      },
+      "section4": {
+        "title": "4. Impact of Disabling Cookies",
+        "text": "Disabling certain cookies may affect website functionality. Specifically:",
+        "items": [
+          "The website may not remember your language preferences",
+          "Some features may not work properly",
+          "The contact form may require additional verification"
+        ]
+      },
+      "section5": {
+        "title": "5. Third-Party Cookies",
+        "text": "Our website may contain elements from external providers:",
+        "items": [
+          "Plausible Analytics - analytics without cookies",
+          "Formspree - contact form handling",
+          "Google Fonts - fonts (may store cookies)"
+        ]
+      },
+      "section6": {
+        "title": "6. How to Delete Cookies?",
+        "intro": "Instructions for deleting cookies in popular browsers:",
+        "browsers": {
+          "chrome": "Chrome: Settings → Privacy and security → Cookies",
+          "firefox": "Firefox: Options → Privacy & Security → Cookies and Site Data",
+          "safari": "Safari: Preferences → Privacy → Manage Website Data",
+          "edge": "Edge: Settings → Privacy → Choose what to clear"
+        }
+      },
+      "section7": {
+        "title": "7. Contact",
+        "text": "Questions about cookie policy should be directed to: contact@tomsoft-website.com"
+      }
+    }
+  }
+}
+

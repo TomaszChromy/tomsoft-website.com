@@ -1,0 +1,120 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="streak1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22A2FF;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#22A2FF;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#22A2FF;stop-opacity:0" />
+    </linearGradient>
+    
+    <linearGradient id="streak2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF7A00;stop-opacity:0.25" />
+      <stop offset="50%" style="stop-color:#FF7A00;stop-opacity:0.08" />
+      <stop offset="100%" style="stop-color:#FF7A00;stop-opacity:0" />
+    </linearGradient>
+    
+    <linearGradient id="streak3" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#60A5FA;stop-opacity:0.2" />
+      <stop offset="50%" style="stop-color:#60A5FA;stop-opacity:0.06" />
+      <stop offset="100%" style="stop-color:#60A5FA;stop-opacity:0" />
+    </linearGradient>
+    
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+  
+  <!-- Animated streaks -->
+  <g filter="url(#blur)">
+    <!-- Streak 1 -->
+    <path d="M-100 300 Q400 250 800 400 Q1200 550 1600 300 Q1800 200 2000 350" 
+          stroke="url(#streak1)" stroke-width="3" fill="none">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0,0; 50,-20; 0,0"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Streak 2 -->
+    <path d="M2000 600 Q1600 550 1200 700 Q800 850 400 600 Q200 500 0 650" 
+          stroke="url(#streak2)" stroke-width="2" fill="none">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0,0; -30,15; 0,0"
+        dur="10s"
+        repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Streak 3 -->
+    <path d="M-50 800 Q300 750 600 900 Q900 1050 1200 800 Q1500 550 1800 700 Q1950 750 2100 650" 
+          stroke="url(#streak3)" stroke-width="2.5" fill="none">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0,0; 40,25; 0,0"
+        dur="12s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Floating particles -->
+  <g opacity="0.6">
+    <circle cx="200" cy="200" r="2" fill="#22A2FF">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0,0; 20,-30; 0,0"
+        dur="6s"
+        repeatCount="indefinite"/>
+      <animate
+        attributeName="opacity"
+        values="0.3; 0.8; 0.3"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="1500" cy="400" r="1.5" fill="#FF7A00">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0,0; -15,25; 0,0"
+        dur="8s"
+        repeatCount="indefinite"/>
+      <animate
+        attributeName="opacity"
+        values="0.2; 0.7; 0.2"
+        dur="5s"
+        repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="800" cy="700" r="1" fill="#60A5FA">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0,0; 25,-20; 0,0"
+        dur="7s"
+        repeatCount="indefinite"/>
+      <animate
+        attributeName="opacity"
+        values="0.4; 0.9; 0.4"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="1200" cy="300" r="1.8" fill="#22A2FF">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0,0; -20,35; 0,0"
+        dur="9s"
+        repeatCount="indefinite"/>
+      <animate
+        attributeName="opacity"
+        values="0.3; 0.6; 0.3"
+        dur="6s"
+        repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

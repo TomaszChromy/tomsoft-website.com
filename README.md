@@ -1,36 +1,143 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TomSoft Website 🚀
 
-## Getting Started
+Profesjonalna strona internetowa dla TomSoft Website - firmy tworzącej nowoczesne aplikacje webowe.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-16.0-black?logo=next.js)
+![React](https://img.shields.io/badge/React-19.2-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38B2AC?logo=tailwind-css)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## ✨ Funkcjonalności
+
+- 🌍 **Wielojęzyczność (i18n)** - Polski i Angielski
+- 🎨 **Nowoczesny design** - Ciemny motyw z gradientami
+- 📱 **Responsywność** - Pełna obsługa urządzeń mobilnych
+- ⚡ **Animacje** - Płynne animacje z Framer Motion
+- 📊 **Analityka** - Wbudowane śledzenie zdarzeń
+- 📝 **Formularz kontaktowy** - Integracja z Formspree
+- 🔒 **Strony prawne** - Polityka prywatności, Regulamin, Cookies
+
+## 🛠️ Technologie
+
+| Technologia | Wersja | Opis |
+|-------------|--------|------|
+| [Next.js](https://nextjs.org/) | 16.0.1 | Framework React z SSR/SSG |
+| [React](https://react.dev/) | 19.2.0 | Biblioteka UI |
+| [TypeScript](https://www.typescriptlang.org/) | 5.x | Typowany JavaScript |
+| [TailwindCSS](https://tailwindcss.com/) | 4.x | Utility-first CSS |
+| [Framer Motion](https://www.framer.com/motion/) | 12.x | Animacje |
+| [Lucide React](https://lucide.dev/) | 0.552 | Ikony |
+
+## 📁 Struktura projektu
+
+```
+src/
+├── app/                    # Next.js App Router
+│   ├── page.tsx           # Strona główna
+│   ├── layout.tsx         # Layout aplikacji
+│   ├── polityka-prywatnosci/
+│   ├── regulamin/
+│   └── cookies/
+├── components/
+│   ├── hero/              # Sekcja powitalna
+│   ├── why/               # Dlaczego my
+│   ├── offer/             # Oferta usług
+│   ├── pricing/           # Cennik
+│   ├── process/           # Proces realizacji
+│   ├── portfolio/         # Realizacje
+│   ├── stats/             # Statystyki
+│   ├── testimonials/      # Opinie klientów
+│   ├── faq/               # FAQ
+│   ├── contact/           # Kontakt i formularz
+│   ├── layout/            # Header i Footer
+│   ├── ui/                # Komponenty UI
+│   └── providers/         # Providery (i18n)
+├── lib/
+│   ├── i18n.tsx           # System wielojęzyczności
+│   ├── analytics.ts       # Analityka
+│   ├── seo.ts             # SEO utilities
+│   └── form.ts            # Obsługa formularzy
+└── styles/                # Style globalne
+
+public/
+├── locales/
+│   ├── pl.json            # Tłumaczenia PL
+│   └── en.json            # Tłumaczenia EN
+└── assets/                # Obrazy i zasoby
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Instalacja
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Klonowanie repozytorium
+git clone https://github.com/AugmentCode-Digital/tomsoft-website.git
+cd tomsoft-website
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Instalacja zależności
+npm install
 
-## Learn More
+# Uruchomienie serwera deweloperskiego
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Otwórz [http://localhost:3000](http://localhost:3000) w przeglądarce.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📜 Skrypty
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Skrypt | Opis |
+|--------|------|
+| `npm run dev` | Serwer deweloperski |
+| `npm run build` | Build produkcyjny |
+| `npm run start` | Uruchomienie produkcyjne |
+| `npm run lint` | Sprawdzanie kodu |
 
-## Deploy on Vercel
+## 🌍 Wielojęzyczność
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Strona obsługuje dwa języki:
+- 🇵🇱 **Polski** (domyślny)
+- 🇬🇧 **English**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Tłumaczenia znajdują się w `public/locales/`:
+- `pl.json` - język polski
+- `en.json` - język angielski
+
+Przełącznik języka znajduje się w prawym górnym rogu strony.
+
+## 🎨 Personalizacja
+
+### Kolory
+Główne kolory zdefiniowane w `src/app/globals.css`:
+- Primary: `#F97316` (pomarańczowy)
+- Accent: `#EF4444` (czerwony)
+- Background: `#0F172A` (ciemny granat)
+
+### Fonty
+- **Nagłówki**: Poppins
+- **Treść**: System fonts
+
+## 🚀 Deploy
+
+### Vercel (zalecane)
+```bash
+npm i -g vercel
+vercel
+```
+
+### Docker
+```bash
+docker build -t tomsoft-website .
+docker run -p 3000:3000 tomsoft-website
+```
+
+## 📧 Kontakt
+
+- **Email**: kontakt@tomsoft-website.com
+- **Telefon**: +48 600 000 000
+
+## 📄 Licencja
+
+Wszelkie prawa zastrzeżone © 2024 TomSoft Website
+
+---
+
+Zbudowane z ❤️ przez [TomSoft Website](https://tomsoft-website.com)

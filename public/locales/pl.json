@@ -1,0 +1,727 @@
+{
+  "common": {
+    "contactUs": "Skontaktuj się z nami",
+    "seeOffer": "Zobacz ofertę",
+    "seePortfolio": "Zobacz realizacje",
+    "askForQuote": "Zapytaj o wycenę",
+    "startProject": "Rozpocznij projekt",
+    "sendMessage": "Wyślij wiadomość",
+    "writeEmail": "Napisz e-mail",
+    "learnMore": "Dowiedz się więcej"
+  },
+  "nav": {
+    "offer": "Oferta",
+    "pricing": "Cennik",
+    "portfolio": "Realizacje",
+    "process": "Proces",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "building": "Budujemy",
+    "forYourBusiness": "które działają dla Twojego biznesu",
+    "description": "Projektuję i wdrażam nowoczesne strony internetowe w React + Next.js — szybkie, lekkie i zoptymalizowane pod SEO. Proste wdrożenie, nowoczesny design, technologia React i Next.js.",
+    "typingWords": [
+      "nowoczesne strony internetowe",
+      "sklepy e-commerce",
+      "aplikacje webowe",
+      "landing page",
+      "systemy CMS"
+    ]
+  },
+  "why": {
+    "title": "Dlaczego",
+    "titleHighlight": "TomSoft Website",
+    "description": "Wybierz partnera, który łączy doświadczenie z nowoczesnymi technologiami i zapewnia kompleksową obsługę na każdym etapie projektu.",
+    "readyToStart": "Gotowy na rozpoczęcie współpracy?",
+    "talkAboutProject": "Porozmawiajmy o Twoim projekcie",
+    "tiles": {
+      "fastDelivery": {
+        "title": "Szybkie realizacje",
+        "description": "Projekty realizujemy w maksymalnie 3 tygodnie, zapewniając wysoką jakość i terminowość."
+      },
+      "modernTech": {
+        "title": "Nowoczesna technologia",
+        "description": "Wykorzystujemy najnowsze technologie: Next.js, React, TypeScript i TailwindCSS."
+      },
+      "security": {
+        "title": "Bezpieczeństwo",
+        "description": "Przestrzegamy standardów RODO i OWASP, zapewniając pełne bezpieczeństwo danych."
+      },
+      "communication": {
+        "title": "Stała komunikacja",
+        "description": "Transparentny proces, regularne aktualizacje i pełna dostępność podczas realizacji."
+      }
+    }
+  },
+  "offer": {
+    "title": "Nasza",
+    "titleHighlight": "Oferta",
+    "description": "Oferujemy kompleksowe rozwiązania webowe — od prostych stron wizytówkowych po zaawansowane systemy eCommerce i aplikacje SaaS. Każdy projekt realizujemy z dbałością o najwyższą jakość i nowoczesne standardy.",
+    "notSeeProject": "Nie widzisz swojego projektu?",
+    "uniqueProject": "Każdy projekt jest unikalny. Skontaktuj się z nami, aby omówić Twoje potrzeby i otrzymać spersonalizowaną ofertę.",
+    "talkAboutProject": "Porozmawiajmy o projekcie",
+    "cards": {
+      "corporate": {
+        "title": "Strony firmowe",
+        "description": "Szybkie i SEO-friendly witryny na React + Next.js. Lighthouse 95+ i doskonały UX.",
+        "features": [
+          "Responsywny design mobile-first",
+          "Optymalizacja SEO i Core Web Vitals",
+          "Integracja z Google Analytics",
+          "Formularz kontaktowy z walidacją",
+          "Panel administracyjny (CMS)",
+          "Hosting i domena w cenie"
+        ]
+      },
+      "ecommerce": {
+        "title": "Sklepy internetowe",
+        "description": "Headless eCommerce (Strapi/Sanity/Shopify). UX dla konwersji, płatności, integracje.",
+        "features": [
+          "Headless architecture (API-first)",
+          "Integracja z systemami płatności",
+          "Zarządzanie produktami i zamówieniami",
+          "Koszyk i checkout zoptymalizowany",
+          "Integracje z kurierami",
+          "Analytics i raportowanie sprzedaży"
+        ]
+      },
+      "custom": {
+        "title": "Systemy dedykowane",
+        "description": "SaaS/CRM/ERP dopasowane do firmy. Integracje API i automatyzacje.",
+        "features": [
+          "Architektura mikroserwisów",
+          "API REST i GraphQL",
+          "Automatyzacje procesów biznesowych",
+          "Integracje z zewnętrznymi systemami",
+          "Dashboard z analityką",
+          "Skalowalna infrastruktura cloud"
+        ]
+      },
+      "design": {
+        "title": "UI/UX Design",
+        "description": "Makiety, prototypy, design systemy. Spójny styl i dostępność.",
+        "features": [
+          "Research użytkowników i analiza UX",
+          "Wireframes i prototypy interaktywne",
+          "Design system i style guide",
+          "Testy użyteczności A/B",
+          "Dostępność WCAG 2.1 AA",
+          "Handoff dla developerów"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Nie widzisz swojego projektu?",
+      "description": "Każdy projekt jest unikalny. Skontaktuj się z nami, aby omówić Twoje potrzeby i otrzymać spersonalizowaną ofertę.",
+      "talkButton": "Porozmawiajmy o projekcie",
+      "portfolioButton": "Zobacz realizacje"
+    }
+  },
+  "pricing": {
+    "title": "Przejrzysty",
+    "titleHighlight": "Cennik",
+    "description": "Średnie ceny usług web developmentu na polskim rynku. Każdy projekt wyceniamy indywidualnie — skontaktuj się po bezpłatną wycenę.",
+    "marketNote": "Ceny orientacyjne dla rynku polskiego 2024/2025",
+    "mostPopular": "Najpopularniejszy",
+    "period": "projekt",
+    "askForQuote": "Zapytaj o wycenę",
+    "note": {
+      "title": "Indywidualna wycena",
+      "description": "Każdy projekt jest unikalny. Finalna cena zależy od zakresu prac, funkcjonalności i terminów. Skontaktuj się, aby otrzymać bezpłatną wycenę dopasowaną do Twoich potrzeb."
+    },
+    "currency": "zł",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "subtitle": "Strona wizytówka",
+        "price": "3 500",
+        "priceMax": "6 500",
+        "description": "Idealna dla małych firm i freelancerów rozpoczynających działalność online.",
+        "features": [
+          "Do 5 podstron",
+          "Responsywny design",
+          "Formularz kontaktowy",
+          "Podstawowe SEO",
+          "Hosting na 1 rok",
+          "Wsparcie 30 dni"
+        ]
+      },
+      "business": {
+        "name": "Business",
+        "subtitle": "Strona firmowa",
+        "price": "6 500",
+        "priceMax": "17 000",
+        "description": "Kompletne rozwiązanie dla firm wymagających profesjonalnej obecności w sieci.",
+        "features": [
+          "Do 15 podstron",
+          "CMS (panel admina)",
+          "Blog / Aktualności",
+          "Zaawansowane SEO",
+          "Google Analytics",
+          "Integracje API",
+          "Hosting na 1 rok",
+          "Wsparcie 90 dni"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "subtitle": "eCommerce / SaaS",
+        "price": "17 000",
+        "priceMax": "65 000+",
+        "description": "Zaawansowane systemy e-commerce i aplikacje webowe na miarę.",
+        "features": [
+          "Nielimitowane podstrony",
+          "Sklep internetowy",
+          "System płatności",
+          "Panel klienta",
+          "Integracje ERP/CRM",
+          "Dedykowane funkcje",
+          "Hosting premium",
+          "Wsparcie 12 miesięcy"
+        ]
+      }
+    }
+  },
+  "process": {
+    "title": "Jak",
+    "titleHighlight": "pracujemy",
+    "description": "Nasz proces jest przejrzysty i przewidywalny. Każdy etap jest dokładnie zaplanowany, abyś zawsze wiedział, na jakim etapie znajduje się Twój projekt.",
+    "cta": {
+      "title": "Gotowy na start?",
+      "description": "Rozpocznijmy współpracę już dziś. Pierwszy kontakt i konsultacja są bezpłatne.",
+      "button": "Skontaktuj się"
+    },
+    "steps": {
+      "contact": {
+        "title": "Zgłoszenie",
+        "description": "Skontaktuj się z nami przez formularz lub telefon. Omówimy Twoje potrzeby i cele biznesowe.",
+        "duration": "1 dzień",
+        "imageAlt": "Spotkanie z klientem"
+      },
+      "brief": {
+        "title": "Brief",
+        "description": "Przygotowujemy szczegółowy brief projektu, określamy zakres prac i harmonogram realizacji.",
+        "duration": "2-3 dni",
+        "imageAlt": "Przygotowanie briefu projektu"
+      },
+      "mockup": {
+        "title": "Makieta",
+        "description": "Projektujemy makiety UX/UI, które przedstawiamy do akceptacji. Wprowadzamy poprawki.",
+        "duration": "5-7 dni",
+        "imageAlt": "Projektowanie makiet UX/UI"
+      },
+      "implementation": {
+        "title": "Wdrożenie",
+        "description": "Kodujemy stronę zgodnie z makietą, testujemy funkcjonalności i optymalizujemy wydajność.",
+        "duration": "7-14 dni",
+        "imageAlt": "Kodowanie strony"
+      },
+      "support": {
+        "title": "Wsparcie",
+        "description": "Uruchamiamy stronę, szkolimy z obsługi i zapewniamy wsparcie techniczne przez 3 miesiące.",
+        "duration": "Ciągłe",
+        "imageAlt": "Wsparcie techniczne"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Nasze",
+    "titleHighlight": "Realizacje",
+    "description": "Poznaj projekty, które tworzymy dla naszych klientów. Każdy z nich to unikalne rozwiązanie dopasowane do specyficznych potrzeb biznesowych.",
+    "stats": {
+      "projects": "Zrealizowanych projektów",
+      "lighthouse": "Średni wynik Lighthouse",
+      "satisfaction": "Zadowolonych klientów",
+      "response": "Czas odpowiedzi"
+    },
+    "cta": {
+      "title": "Chcesz zobaczyć więcej?",
+      "description": "To tylko część naszych realizacji. Skontaktuj się z nami, aby poznać pełne portfolio i omówić Twój projekt.",
+      "discussButton": "Omówmy Twój projekt",
+      "githubButton": "Zobacz kod na GitHub"
+    },
+    "items": {
+      "probiz": {
+        "title": "ProBiz Site",
+        "description": "Nowoczesna strona firmowa dla agencji marketingowej. Responsywny design, animacje i optymalizacja SEO.",
+        "category": "Strona firmowa"
+      },
+      "shoply": {
+        "title": "Shoply",
+        "description": "Headless sklep internetowy z integracją Stripe. Zaawansowany koszyk, płatności i panel administracyjny.",
+        "category": "Sklep headless"
+      },
+      "crmflow": {
+        "title": "CRMflow",
+        "description": "System CRM SaaS dla małych firm. Dashboard analityczny, zarządzanie klientami i automatyzacje.",
+        "category": "CRM SaaS"
+      },
+      "designhub": {
+        "title": "DesignHub",
+        "description": "Portfolio dla studia projektowego. Galeria prac, animacje i system zarządzania treścią.",
+        "category": "Portfolio"
+      },
+      "eduplatform": {
+        "title": "EduPlatform",
+        "description": "Platforma e-learningowa z kursami online. System płatności, postępy uczenia i certyfikaty.",
+        "category": "E-learning"
+      },
+      "restaurantos": {
+        "title": "RestaurantOS",
+        "description": "System zarządzania restauracją. Rezerwacje, menu online, zamówienia i integracja z POS.",
+        "category": "System dedykowany"
+      }
+    }
+  },
+  "stats": {
+    "title": "Liczby mówią",
+    "titleHighlight": "same za siebie",
+    "description": "Zaufanie klientów budujemy poprzez jakość i terminowość realizacji",
+    "items": {
+      "projects": {
+        "label": "Zrealizowanych projektów",
+        "description": "stron, sklepów i aplikacji"
+      },
+      "satisfaction": {
+        "label": "Zadowolonych klientów",
+        "description": "pozytywnych opinii"
+      },
+      "experience": {
+        "label": "Lat doświadczenia",
+        "description": "w branży IT"
+      },
+      "response": {
+        "label": "Czas odpowiedzi",
+        "description": "na Twoje zapytanie"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Co mówią",
+    "titleHighlight": "nasi klienci",
+    "description": "Opinie naszych klientów są dla nas najważniejsze. Poznaj historie sukcesu firm, które nam zaufały.",
+    "cta": {
+      "subtitle": "Dołącz do grona zadowolonych klientów",
+      "button": "Rozpocznij współpracę"
+    },
+    "items": {
+      "anna": {
+        "name": "Anna Kowalska",
+        "company": "eCommerce24",
+        "role": "CEO",
+        "content": "TomSoft zwiększył sprzedaż o 40% w 3 miesiące. Profesjonalne podejście, terminowość i doskonała komunikacja. Polecam każdemu, kto szuka jakości.",
+        "metric": "+40% sprzedaży"
+      },
+      "marek": {
+        "name": "Marek Nowak",
+        "company": "Startup360",
+        "role": "Founder",
+        "content": "Świetny kontakt, szybka realizacja i pełen profesjonalizm. Strona została wykonana w 7 dni zgodnie z ustaleniami. Bardzo polecam współpracę.",
+        "metric": "Strona w 7 dni"
+      },
+      "katarzyna": {
+        "name": "Katarzyna Wiśniewska",
+        "company": "DesignStudio",
+        "role": "Creative Director",
+        "content": "Fantastyczna współpraca przy redesignie naszego portfolio. TomSoft doskonale zrozumiał nasze potrzeby i stworzył stronę, która przekracza oczekiwania.",
+        "metric": "95+ Lighthouse"
+      }
+    }
+  },
+  "faq": {
+    "title": "Często zadawane",
+    "titleHighlight": "pytania",
+    "description": "Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące naszych usług",
+    "cta": {
+      "subtitle": "Nie znalazłeś odpowiedzi na swoje pytanie?",
+      "button": "Skontaktuj się z nami"
+    },
+    "items": {
+      "cost": {
+        "question": "Ile kosztuje strona internetowa?",
+        "answer": "Cena strony internetowej zależy od jej złożoności. Proste strony wizytówki zaczynają się od 3 500 zł, strony firmowe z CMS od 6 500 zł, a rozbudowane sklepy internetowe od 17 000 zł. Każdy projekt wyceniamy indywidualnie po poznaniu Twoich potrzeb."
+      },
+      "timeline": {
+        "question": "Jak długo trwa realizacja projektu?",
+        "answer": "Czas realizacji zależy od złożoności projektu. Prosta strona wizytówka to 1-2 tygodnie, strona firmowa z CMS to 2-3 tygodnie, a sklep internetowy może zająć 4-8 tygodni. Zawsze ustalamy konkretny harmonogram na początku współpracy."
+      },
+      "support": {
+        "question": "Czy oferujecie wsparcie po wdrożeniu?",
+        "answer": "Tak! Po wdrożeniu oferujemy bezpłatne wsparcie techniczne przez 30 dni. Następnie możesz skorzystać z naszych pakietów serwisowych obejmujących aktualizacje, backup, monitoring i szybką pomoc w razie problemów."
+      },
+      "technologies": {
+        "question": "Jakie technologie wykorzystujecie?",
+        "answer": "Specjalizujemy się w nowoczesnych technologiach: React, Next.js, TypeScript, Tailwind CSS, Node.js. Dla sklepów używamy headless eCommerce (Shopify, WooCommerce). Wszystkie strony są szybkie, bezpieczne i zoptymalizowane pod SEO."
+      },
+      "cms": {
+        "question": "Czy mogę sam zarządzać treścią na stronie?",
+        "answer": "Oczywiście! Wszystkie nasze strony wyposażamy w intuicyjny panel administracyjny (CMS), który pozwala łatwo edytować teksty, zdjęcia i dodawać nowe podstrony. Przeprowadzamy również szkolenie z obsługi."
+      },
+      "responsive": {
+        "question": "Czy strona będzie responsywna na urządzenia mobilne?",
+        "answer": "Tak, wszystkie nasze strony są w pełni responsywne i działają doskonale na smartfonach, tabletach i komputerach. Projektujemy metodą mobile-first, co zapewnia najlepsze doświadczenie na każdym urządzeniu."
+      }
+    }
+  },
+  "contact": {
+    "title": "Porozmawiajmy o",
+    "titleHighlight": "Twoim projekcie",
+    "description": "Odpowiadamy w 24h. Skontaktuj się z nami, aby omówić szczegóły i otrzymać bezpłatną wycenę Twojego projektu.",
+    "contactUs": "Skontaktuj się z nami",
+    "contactUsDescription": "Jesteśmy tutaj, aby pomóc Ci zrealizować Twoje cyfrowe marzenia. Niezależnie od tego, czy potrzebujesz prostej strony wizytówkowej, czy zaawansowanego systemu eCommerce - jesteśmy gotowi na wyzwanie.",
+    "info": {
+      "email": {
+        "label": "E-mail",
+        "description": "Napisz do nas w każdej sprawie"
+      },
+      "location": {
+        "label": "Lokalizacja",
+        "value": "UE / zdalnie",
+        "description": "Pracujemy zdalnie z całą Europą"
+      },
+      "response": {
+        "label": "Czas odpowiedzi",
+        "value": "24 godziny",
+        "description": "Odpowiadamy na wszystkie wiadomości"
+      }
+    },
+    "quickResponse": {
+      "title": "Potrzebujesz szybkiej odpowiedzi?",
+      "description": "Zadzwoń lub napisz - odpowiadamy natychmiast",
+      "button": "Napisz e-mail teraz"
+    },
+    "form": {
+      "title": "Wyślij wiadomość",
+      "description": "Wypełnij formularz, a skontaktujemy się z Tobą w ciągu 24 godzin."
+    },
+    "whyUs": {
+      "title": "Dlaczego warto z nami współpracować?",
+      "consultation": {
+        "title": "Bezpłatna konsultacja",
+        "description": "Pierwszy kontakt i wycena są darmowe"
+      },
+      "transparency": {
+        "title": "Transparentność",
+        "description": "Jasne zasady, bez ukrytych kosztów"
+      },
+      "support": {
+        "title": "Wsparcie",
+        "description": "3 miesiące bezpłatnego wsparcia technicznego"
+      }
+    }
+  },
+  "form": {
+    "fields": {
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "message": "Wiadomość"
+    },
+    "placeholders": {
+      "name": "Jan Kowalski",
+      "email": "jan@example.com",
+      "message": "Opisz swój projekt lub zadaj pytanie..."
+    },
+    "consent": {
+      "text": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez TomSoft Website w celu kontaktu zwrotnego, zgodnie z",
+      "privacyPolicy": "Polityką prywatności"
+    },
+    "mailtoInfo": "Po kliknięciu przycisku otworzy się Twój domyślny program pocztowy z przygotowaną wiadomością.",
+    "submit": "Wyślij wiadomość",
+    "errors": {
+      "nameMin": "Imię i nazwisko musi mieć co najmniej 2 znaki",
+      "emailInvalid": "Podaj prawidłowy adres e-mail",
+      "messageMin": "Wiadomość musi mieć co najmniej 10 znaków",
+      "consentRequired": "Musisz wyrazić zgodę na przetwarzanie danych osobowych"
+    }
+  },
+  "footer": {
+    "brandDescription": "Budujemy szybkie, nowoczesne i SEO-friendly strony oraz systemy, które pracują dla Twojego biznesu.",
+    "sections": {
+      "offer": "Oferta",
+      "navigation": "Nawigacja",
+      "contact": "Kontakt"
+    },
+    "legal": {
+      "privacyPolicy": "Polityka prywatności",
+      "terms": "Regulamin",
+      "cookies": "Cookies"
+    },
+    "poweredBy": "POWERED BY",
+    "disclaimerEn": "This website was created for training purposes only and does not constitute a commercial offer.",
+    "disclaimerPl": "Strona została stworzona w celach szkoleniowych i nie stanowi oferty handlowej."
+  },
+  "languageSwitcher": {
+    "pl": "Polski",
+    "en": "English"
+  },
+  "legal": {
+    "backToHome": "Powrót do strony głównej",
+    "lastUpdated": "Data ostatniej aktualizacji",
+    "privacyPolicy": {
+      "title": "Polityka prywatności",
+      "metaDescription": "Polityka prywatności TomSoft Website. Dowiedz się, jak przetwarzamy i chronimy Twoje dane osobowe zgodnie z RODO.",
+      "section1": {
+        "title": "1. Informacje ogólne",
+        "p1": "Niniejsza Polityka prywatności określa zasady przetwarzania i ochrony danych osobowych przekazanych przez użytkowników w związku z korzystaniem z usług świadczonych przez TomSoft Website.",
+        "p2": "Administratorem danych osobowych jest TomSoft Website, kontakt: kontakt@tomsoft-website.com"
+      },
+      "section2": {
+        "title": "2. Rodzaje przetwarzanych danych",
+        "intro": "W ramach świadczonych usług możemy przetwarzać następujące kategorie danych osobowych:",
+        "items": [
+          "Dane identyfikacyjne (imię, nazwisko)",
+          "Dane kontaktowe (adres e-mail, numer telefonu)",
+          "Dane techniczne (adres IP, typ przeglądarki, system operacyjny)",
+          "Dane dotyczące korzystania z witryny (czas wizyty, odwiedzone strony)"
+        ]
+      },
+      "section3": {
+        "title": "3. Cele i podstawy prawne przetwarzania",
+        "contact": {
+          "title": "Kontakt i komunikacja",
+          "purpose": "Cel:",
+          "purposeText": "Odpowiadanie na zapytania, świadczenie usług",
+          "legal": "Podstawa prawna:",
+          "legalText": "Zgoda (art. 6 ust. 1 lit. a RODO) lub prawnie uzasadniony interes (art. 6 ust. 1 lit. f RODO)"
+        },
+        "analytics": {
+          "title": "Analityka i statystyki",
+          "purpose": "Cel:",
+          "purposeText": "Analiza ruchu na stronie, optymalizacja usług",
+          "legal": "Podstawa prawna:",
+          "legalText": "Prawnie uzasadniony interes (art. 6 ust. 1 lit. f RODO)"
+        }
+      },
+      "section4": {
+        "title": "4. Pliki cookie i technologie śledzące",
+        "intro": "Nasza strona wykorzystuje pliki cookie i podobne technologie w następujących celach:",
+        "items": [
+          "Niezbędne: Zapewnienie podstawowego funkcjonowania strony",
+          "Analityczne: Analiza ruchu za pomocą Plausible Analytics (privacy-friendly)",
+          "Funkcjonalne: Zapamiętywanie preferencji użytkownika"
+        ],
+        "outro": "Możesz zarządzać ustawieniami plików cookie za pomocą banera cookie lub ustawień przeglądarki."
+      },
+      "section5": {
+        "title": "5. Udostępnianie danych",
+        "intro": "Twoje dane osobowe mogą być udostępniane następującym kategoriom odbiorców:",
+        "items": [
+          "Dostawcy usług technicznych (hosting, analityka)",
+          "Dostawcy usług komunikacyjnych (Formspree)",
+          "Organy publiczne (w przypadkach przewidzianych prawem)"
+        ],
+        "outro": "Wszystkie podmioty przetwarzające dane w naszym imieniu są związane umowami zapewniającymi odpowiedni poziom ochrony danych."
+      },
+      "section6": {
+        "title": "6. Okres przechowywania danych",
+        "intro": "Dane osobowe przechowujemy przez okres niezbędny do realizacji celów, dla których zostały zebrane:",
+        "items": [
+          "Dane kontaktowe: do momentu wycofania zgody lub przez 3 lata od ostatniego kontaktu",
+          "Dane analityczne: maksymalnie 24 miesiące",
+          "Logi serwera: maksymalnie 12 miesięcy"
+        ]
+      },
+      "section7": {
+        "title": "7. Twoje prawa",
+        "intro": "Zgodnie z RODO przysługują Ci następujące prawa:",
+        "items": [
+          "Prawo dostępu do danych",
+          "Prawo do sprostowania danych",
+          "Prawo do usunięcia danych",
+          "Prawo do ograniczenia przetwarzania",
+          "Prawo do przenoszenia danych",
+          "Prawo do sprzeciwu wobec przetwarzania",
+          "Prawo do wycofania zgody"
+        ],
+        "outro": "Aby skorzystać z swoich praw, skontaktuj się z nami pod adresem: kontakt@tomsoft-website.com"
+      },
+      "section8": {
+        "title": "8. Bezpieczeństwo danych",
+        "intro": "Stosujemy odpowiednie środki techniczne i organizacyjne w celu ochrony danych osobowych:",
+        "items": [
+          "Szyfrowanie połączeń (SSL/TLS)",
+          "Regularne aktualizacje bezpieczeństwa",
+          "Ograniczony dostęp do danych",
+          "Monitoring bezpieczeństwa"
+        ]
+      },
+      "section9": {
+        "title": "9. Zmiany w polityce prywatności",
+        "text": "Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej Polityce prywatności. O wszelkich istotnych zmianach poinformujemy na stronie internetowej."
+      },
+      "section10": {
+        "title": "10. Kontakt",
+        "intro": "W sprawach dotyczących ochrony danych osobowych możesz skontaktować się z nami:",
+        "email": "E-mail:",
+        "phone": "Telefon:",
+        "outro": "Masz również prawo do wniesienia skargi do organu nadzorczego - Prezesa Urzędu Ochrony Danych Osobowych."
+      }
+    },
+    "terms": {
+      "title": "Regulamin",
+      "metaDescription": "Regulamin korzystania z usług TomSoft Website. Zasady współpracy i warunki świadczenia usług.",
+      "section1": {
+        "title": "1. Postanowienia ogólne",
+        "p1": "Niniejszy Regulamin określa zasady korzystania z usług świadczonych przez TomSoft Website.",
+        "p2": "Usługodawcą jest TomSoft Website, kontakt: kontakt@tomsoft-website.com"
+      },
+      "section2": {
+        "title": "2. Definicje",
+        "items": [
+          "Usługodawca - TomSoft Website",
+          "Klient - osoba fizyczna lub prawna korzystająca z usług",
+          "Usługi - projektowanie i tworzenie stron internetowych, aplikacji webowych i systemów",
+          "Strona - witryna internetowa tomsoft-website.com"
+        ]
+      },
+      "section3": {
+        "title": "3. Zakres usług",
+        "intro": "TomSoft Website oferuje następujące usługi:",
+        "items": [
+          "Projektowanie i tworzenie stron firmowych",
+          "Projektowanie i tworzenie sklepów internetowych",
+          "Tworzenie aplikacji webowych na zamówienie",
+          "Projektowanie UI/UX",
+          "Wsparcie techniczne i maintenance"
+        ]
+      },
+      "section4": {
+        "title": "4. Proces realizacji",
+        "intro": "Realizacja projektu przebiega według następujących etapów:",
+        "items": [
+          "Konsultacja wstępna i analiza wymagań",
+          "Przygotowanie briefu i wyceny",
+          "Projektowanie UI/UX",
+          "Implementacja i rozwój",
+          "Testy i poprawki",
+          "Wdrożenie i szkolenie"
+        ]
+      },
+      "section5": {
+        "title": "5. Płatności",
+        "items": [
+          "Ceny usług ustalane są indywidualnie na podstawie zakresu projektu",
+          "Standardowo wymagana jest zaliczka w wysokości 30-50% wartości projektu",
+          "Pozostała część płatna jest po zakończeniu realizacji",
+          "Akceptowane formy płatności: przelew bankowy, PayPal"
+        ]
+      },
+      "section6": {
+        "title": "6. Prawa autorskie",
+        "items": [
+          "Po pełnej zapłacie prawa majątkowe do projektu przechodzą na Klienta",
+          "Usługodawca zastrzega sobie prawo do wykorzystania projektu w portfolio",
+          "Wykorzystywane biblioteki open-source podlegają ich oryginalnym licencjom"
+        ]
+      },
+      "section7": {
+        "title": "7. Gwarancja i wsparcie",
+        "items": [
+          "Oferujemy 30-dniową gwarancję na naprawę błędów po wdrożeniu",
+          "Wsparcie techniczne dostępne jest w dni robocze 9:00-17:00",
+          "Dodatkowe wsparcie możliwe jest na podstawie oddzielnej umowy"
+        ]
+      },
+      "section8": {
+        "title": "8. Odpowiedzialność",
+        "items": [
+          "Usługodawca nie ponosi odpowiedzialności za treści dodane przez Klienta",
+          "Usługodawca nie odpowiada za przerwy w działaniu wynikające z siły wyższej",
+          "Maksymalna odpowiedzialność ograniczona jest do wartości zamówienia"
+        ]
+      },
+      "section9": {
+        "title": "9. Reklamacje",
+        "p1": "Reklamacje należy zgłaszać drogą mailową na adres: kontakt@tomsoft-website.com",
+        "p2": "Reklamacje rozpatrywane są w ciągu 14 dni roboczych."
+      },
+      "section10": {
+        "title": "10. Postanowienia końcowe",
+        "items": [
+          "Regulamin wchodzi w życie z dniem publikacji",
+          "Usługodawca zastrzega sobie prawo do zmiany Regulaminu",
+          "W sprawach nieuregulowanych stosuje się przepisy prawa polskiego"
+        ]
+      }
+    },
+    "cookies": {
+      "title": "Polityka Cookies",
+      "metaDescription": "Polityka cookies TomSoft Website. Informacje o wykorzystywanych plikach cookie i zarządzaniu nimi.",
+      "section1": {
+        "title": "1. Czym są pliki cookie?",
+        "text": "Pliki cookie (ciasteczka) to małe pliki tekstowe zapisywane na Twoim urządzeniu podczas odwiedzania stron internetowych. Służą do zapamiętywania preferencji, ułatwiania korzystania ze strony oraz zbierania danych analitycznych."
+      },
+      "section2": {
+        "title": "2. Rodzaje wykorzystywanych cookies",
+        "essential": {
+          "title": "Niezbędne",
+          "description": "Wymagane do prawidłowego funkcjonowania strony. Nie można ich wyłączyć.",
+          "items": [
+            "Preferencje językowe",
+            "Sesja użytkownika",
+            "Zabezpieczenia CSRF"
+          ]
+        },
+        "analytics": {
+          "title": "Analityczne",
+          "description": "Pomagają zrozumieć, jak użytkownicy korzystają ze strony.",
+          "items": [
+            "Plausible Analytics (privacy-friendly, bez cookies)",
+            "Anonimowe statystyki odwiedzin"
+          ]
+        },
+        "functional": {
+          "title": "Funkcjonalne",
+          "description": "Zapamiętują Twoje preferencje i ustawienia.",
+          "items": [
+            "Tryb jasny/ciemny",
+            "Preferencje wyświetlania"
+          ]
+        }
+      },
+      "section3": {
+        "title": "3. Zarządzanie cookies",
+        "intro": "Możesz zarządzać plikami cookie poprzez:",
+        "items": [
+          "Ustawienia przeglądarki - większość przeglądarek pozwala blokować lub usuwać cookies",
+          "Baner cookie - przy pierwszej wizycie możesz wybrać akceptowane kategorie",
+          "Ustawienia strony - niektóre preferencje można zmienić w ustawieniach"
+        ]
+      },
+      "section4": {
+        "title": "4. Wpływ wyłączenia cookies",
+        "text": "Wyłączenie niektórych plików cookie może wpłynąć na funkcjonalność strony. W szczególności:",
+        "items": [
+          "Strona może nie pamiętać Twoich preferencji językowych",
+          "Niektóre funkcje mogą działać nieprawidłowo",
+          "Formularz kontaktowy może wymagać dodatkowej weryfikacji"
+        ]
+      },
+      "section5": {
+        "title": "5. Cookies stron trzecich",
+        "text": "Nasza strona może zawierać elementy od zewnętrznych dostawców:",
+        "items": [
+          "Plausible Analytics - analityka bez cookies",
+          "Formspree - obsługa formularzy kontaktowych",
+          "Google Fonts - czcionki (mogą zapisywać cookies)"
+        ]
+      },
+      "section6": {
+        "title": "6. Jak usunąć cookies?",
+        "intro": "Instrukcje usuwania cookies dla popularnych przeglądarek:",
+        "browsers": {
+          "chrome": "Chrome: Ustawienia → Prywatność i bezpieczeństwo → Pliki cookie",
+          "firefox": "Firefox: Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron",
+          "safari": "Safari: Preferencje → Prywatność → Zarządzaj danymi witryn",
+          "edge": "Edge: Ustawienia → Prywatność → Wybierz elementy do wyczyszczenia"
+        }
+      },
+      "section7": {
+        "title": "7. Kontakt",
+        "text": "Pytania dotyczące polityki cookies kieruj na adres: kontakt@tomsoft-website.com"
+      }
+    }
+  }
+}
+
