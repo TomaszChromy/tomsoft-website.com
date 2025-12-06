@@ -10,7 +10,7 @@ import { useTranslation } from '@/lib/i18n';
 const socialLinks = [
   {
     name: 'GitHub',
-    href: 'https://github.com/tomsoft-website',
+    href: 'https://github.com/TomaszChromy',
     icon: Github,
   },
   {
