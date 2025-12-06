@@ -285,11 +285,11 @@ export default function Footer() {
           </div>
 
           {/* Disclaimers */}
-          <div className="mb-8 space-y-2 max-w-2xl mx-auto">
-            <p className="text-muted/70 text-xs leading-relaxed">
+          <div className="mb-8 space-y-2 max-w-3xl mx-auto">
+            <p className="text-lg font-heading font-semibold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent leading-relaxed">
               {t('footer.disclaimerEn')}
             </p>
-            <p className="text-muted/70 text-xs leading-relaxed">
+            <p className="text-lg font-heading font-semibold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent leading-relaxed">
               {t('footer.disclaimerPl')}
             </p>
           </div>
